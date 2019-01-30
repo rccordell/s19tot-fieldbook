@@ -19,3 +19,4 @@ I'm writing and _now I want italics_ and **now bold**.
 + super 
 + fun?
 
+![Image of Type](8155665827_08680a7ca1_o.jpg)
